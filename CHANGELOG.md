@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.4.0](https://github.com/andrelouw-playgrounds/test-release-please/compare/v1.3.0...v1.4.0) (2025-10-02)
+
+
+### Features
+
+* add more ([35485be](https://github.com/andrelouw-playgrounds/test-release-please/commit/35485beda51496d8b279c1996aeb85c43822ed66))
+* Add something ([90e3337](https://github.com/andrelouw-playgrounds/test-release-please/commit/90e3337ae7f7179768c8717eb38fe33fd6fe5fc3))
+
+
+### Bug Fixes
+
+* remove a line ([fb0c37f](https://github.com/andrelouw-playgrounds/test-release-please/commit/fb0c37f423006b7eeda429ac8744d2cd23330e43))
+
 ## [1.3.0](https://github.com/andrelouw-playgrounds/test-release-please/compare/v1.2.0...v1.3.0) (2025-10-02)
 
 
