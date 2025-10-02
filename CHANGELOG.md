@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/andrelouw-playgrounds/test-release-please/compare/v1.1.0...v1.2.0) (2025-10-02)
+
+
+### Features
+
+* **read:** Add another line ([b44e362](https://github.com/andrelouw-playgrounds/test-release-please/commit/b44e362fa31a36f8878440fa2c5a49c5e9f66013))
+
 ## [1.1.0](https://github.com/andrelouw-playgrounds/test-release-please/compare/v1.0.0...v1.1.0) (2025-10-02)
 
 
