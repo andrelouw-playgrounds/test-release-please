@@ -3,9 +3,9 @@
   "release-type": "simple",
   "pull-request-title-pattern": "build${scope}: release${component} ${version}",
   "extra-files": [
-    "Version.swift"
-  ],
-  "packages": {
-    ".": {}
-  }
+    {
+      "type": "generic",
+      "path": "Version.swift"
+    }
+  ]
 }
