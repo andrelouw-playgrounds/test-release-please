@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.5.1](https://github.com/andrelouw-playgrounds/test-release-please/compare/v1.5.0...v1.5.1) (2025-10-02)
+
+
+### Bug Fixes
+
+* Fix version swift file ([04d03d1](https://github.com/andrelouw-playgrounds/test-release-please/commit/04d03d1d71f8d47cb58e1d4d407686be45a929ae))
+* remove line ([c6df436](https://github.com/andrelouw-playgrounds/test-release-please/commit/c6df4362584e9b0f9ad90ee51d8ae00b8e5094cb))
+
 ## [1.5.0](https://github.com/andrelouw-playgrounds/test-release-please/compare/v1.4.0...v1.5.0) (2025-10-02)
 
 
